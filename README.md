@@ -279,12 +279,16 @@ For [main .env](./.env):
         <tr>
             <td>
                 <code>PORT_1</code>,
+                <br>
                 ...,
+                <br>
                 <code>PORT_n</code>
             </td>
             <td>
                 <code>9001</code>,
+                <br>
                 ...,
+                <br>
                 <code>900n</code>
             </td>
             <td>
