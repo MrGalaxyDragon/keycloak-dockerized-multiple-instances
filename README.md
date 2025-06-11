@@ -278,10 +278,14 @@ For [main .env](./.env):
         </tr>
         <tr>
             <td>
-                <code>PORT_1</code>, ..., <code>PORT_n</code>
+                <code>PORT_1</code>,
+                ...,
+                <code>PORT_n</code>
             </td>
             <td>
-                <code>9001</code>, ..., <code>900n</code>
+                <code>9001</code>,
+                ...,
+                <code>900n</code>
             </td>
             <td>
                 any not-used <a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Registered_ports">registered port</a>
