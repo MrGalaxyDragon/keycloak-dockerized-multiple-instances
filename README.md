@@ -278,16 +278,16 @@ For [main .env](./.env):
         </tr>
         <tr>
             <td>
-                <code>PORT_1</code>,
+                <code>PORT_1</code>
                 <br>
-                ...,
+                ...
                 <br>
                 <code>PORT_n</code>
             </td>
             <td>
-                <code>9001</code>,
+                <code>9001</code>
                 <br>
-                ...,
+                ...
                 <br>
                 <code>900n</code>
             </td>
