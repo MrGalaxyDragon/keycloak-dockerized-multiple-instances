@@ -94,7 +94,7 @@ In general, the following workflow can be used:
     3. Navigate to the [Keycloak UI](http://localhost:9000/) *(this example uses port 9000)* in your browser and login with admin credentials as specified by [.env](./.env).
     4. Create and configure a new realm.
     5. Export the realm as specified [here](#exporting-a-realm).
-    6. Delete the realm as specified [here](#deleting-keycloak-instances).
+    6. Delete the instance as specified [here](#deleting-keycloak-instances).
 2. Move the exported Keycloak realm from the directory named in accordance to `EXPORT_DIR_NAME` in [.env](./export-utils/.env) to a directory named in accordance to `IMPORT_DIR_NAME` in [.env](./.env).
     > If you have a Keycloak instance running already, but do not have a realm configuration, look [here](#exporting-a-realm).
 3. Add more variables matching `PORT_<number>` as well as a descriptive `PROJECT_ROOT_NAME`.
